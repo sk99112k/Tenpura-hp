@@ -4,6 +4,24 @@
   box-sizing: border-box;
 }
 
+.header-bg {
+  background-color: rgb(0,0,0);
+}
+
+.header-nav {
+  color: white;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+}
+
+.nav-list-item {
+  margin: 20px;
+}
+
 .bg-img-text {
   display:  inline-block;
   margin-top: 70px;
