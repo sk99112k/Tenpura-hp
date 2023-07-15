@@ -51,18 +51,33 @@
   border-radius: 30%;
 }
 
-.concept {
+.concept, .menu {
   display: flex;
 }
 
 .concept-bg {
   background-color: red;
   width: 30%;
-  height: 300px;
+  height: 400px;
 }
 
 .concept-text {
   margin: auto;
+}
+
+.menu-text {
+  margin: auto;
+  text-align: center;
+}
+
+.menu-text>h2 {
+  padding: 15px;
+}
+
+.menu-bg {
+  background-color: green;
+  width: 30%;
+  height: 300px;
 }
 
 .footer-bg {
