@@ -82,7 +82,8 @@
 
 .access {
   text-align: center;
-  margin: 20px;
+  padding: 20px;
+  background-color: rgba(169,169,169,0.5);
 }
 
 .access-title {
