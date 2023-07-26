@@ -34,7 +34,7 @@
   color: rgba(255,255,255,0.7);
 }
 
-.bg-img {
+.main-bg-img {
   text-align:  center;
   background-image: url(img/tennpura.jpeg);
   width: 100%;
@@ -74,10 +74,12 @@
   padding: 15px;
 }
 
-.menu-bg {
-  background-color: green;
+.menu-bg-img {
+  background-image: url(img/autumn.jpeg);
   width: 30%;
   height: 300px;
+  background-size: cover;
+  background-position: right;
 }
 
 .access {
