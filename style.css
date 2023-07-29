@@ -55,10 +55,16 @@
   display: flex;
 }
 
+.concept {
+  background-color: rgba(51,153,51,0.3);
+}
+
 .concept-bg {
-  background-color: red;
+  background-image: url(img/midori.jpeg);
   width: 30%;
   height: 400px;
+  background-size: cover;
+  background-position: right;
 }
 
 .concept-text {
