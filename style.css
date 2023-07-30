@@ -69,6 +69,11 @@
 
 .concept-text {
   margin: auto;
+  text-align: center;
+}
+
+.concept-text>h2 {
+  padding: 15px;
 }
 
 .menu {
